@@ -9,8 +9,8 @@ With this program you can easily find your favorite GIF with a search word
 ### Prerequisites
 
 Before we get started heres a few install' you have to make before running this program
-If you have them and you know what to do feel free to skip and and check me program :-)
-to install those liberary plz enter your Terminal and follow these commands
+If you have them and you know what to do feel free to skip and and check my program :-)
+to install those library plz enter your Terminal and follow these commands
 ```
 NPM & NODE
 https://phoenixnap.com/kb/install-node-js-npm-on-windows
