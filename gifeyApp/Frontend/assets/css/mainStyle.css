@@ -1,0 +1,79 @@
+body {
+    background-color: white;
+    color: blue;
+    font-family: "Lato";
+    background: url(https://images.pexels.com/photos/248159/pexels-photo-248159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-size: cover;
+    background-position: center;
+}
+
+html {
+    min-height: 100%;
+}
+
+.container {
+    opacity: 1;
+    margin-left: 35px;
+}
+
+button {
+    margin: 5px;
+    background-color: black;
+    color: white;
+    font-size: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-color: #ffef97;
+    border-radius: 5px;
+}
+
+.content .btn-default {
+    color: #f5f5f5;
+    background-color: #302327;
+    border-color: #ccc;
+}
+
+h2 {
+    margin-top: 5px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #a8a3ff;
+}
+
+.footer {
+    padding: 5px 0;
+    text-align: center;
+    color: #e9ff41;
+    font-size: 16px;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    position: fixed;
+}
+
+.content h1 {
+    font-weight: 700;
+    font-size: 7em;
+    font-family: "Lato";
+    color: white;
+}
+
+.content h3 {
+    font-family: "Lato";
+    color: white;
+}
+
+.content {
+    padding-top: 5%;
+    text-align: center;
+    text-shadow: 0px 4px 10px rgba(0, 0, 0, 0.8), 0px 8px 20px rgba(0, 0, 0, 0.2), 0px 18px 30px rgba(0, 0, 0, 0.2);
+}
+
+hr {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
